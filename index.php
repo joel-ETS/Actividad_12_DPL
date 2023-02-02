@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Formulario de </title>
+        <title>Formulario  </title>
         <meta charset = "UTF-8">
         <script type = "text/javascript" src = "js/cargarDatos.js"></script>		
         <script type = "text/javascript" src = "js/sesion.js"></script>				
